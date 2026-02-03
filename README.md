@@ -1,27 +1,8 @@
-<p align="center">
-    <a href="https://expo.io/@nathanabela/donewithit">
-        <img src="app/app/assets/logo.png" width="100" alt="Done With It Logo"/>
-    </a>
-    <h1 align="center"> Done With It </h1>
+<h1 align="center"> Zenso - React Native Marketplace App </h1>
 </p>
 
 <p align="center">
     An application for selling stuff you do not need anymore.
-</p>
-
-<p align="center">
-    <a href="https://github.com/nathan-abela/Done-With-It/commits/master">
-        <img src="https://img.shields.io/github/last-commit/nathan-abela/Done-With-It" alt="Last Commit Shield Badge"/>
-    </a>
-    <a href="https://github.com/nathan-abela/Done-With-It/archive/master.zip">
-        <img src="https://img.shields.io/github/repo-size/nathan-abela/Done-With-It" alt="Repository Size Shield Badge"/>
-    </a>
-    <a href="https://www.npmjs.com/package/npm">
-        <img src="https://img.shields.io/npm/v/npm" alt="NPM Shield Badge"/>
-    </a>
-    <a href="https://github.com/nathan-abela/Done-With-It/stargazers">
-        <img src="https://img.shields.io/github/stars/nathan-abela/Done-With-It?style=social" alt="Done With It Stars" >
-    </a>
 </p>
 
 <p align="center">
@@ -32,17 +13,6 @@
     Done With It offers free user to user classifieds listings. <strong>Buy</strong> and <strong>Sell</strong>!
 </p>
 
-## Running the Application
-
-### View the application
-
-Scan [QR Code](https://expo.io/@nathanabela/donewithit) via the [Expo mobile app](https://play.google.com/store/apps/details?id=host.exp.exponent), or by using [Appetize Emulator](https://expo.io/appetize-simulator?url=https://expo.io/@nathanabela/donewithit) (`Scroll down` &#8594; `Open project using Expo`).
-
-### App Showcase
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/50643013/86519436-07b6f480-be3b-11ea-9be2-19e5010dd1c8.jpg" width="1280" alt="Done With It Screens Mockup"/>
-</p>
 
 ### Running the application on your machine
 
