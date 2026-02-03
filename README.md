@@ -60,9 +60,3 @@ To run the application on your machine, follow the steps below:
 * `Reusable Components` - Button, Icon, Forms, Screen, Text, Text Input and more.
 
 * `Splash Screen` - Logo Screen Design while the app is launching.
-
-<p align="center">
-    <a href="https://expo.io/@nathanabela/donewithit">
-        <img src="app/app/assets/logo.png" width="50" alt="Done With It Logo"/>
-    </a>
-</p>
